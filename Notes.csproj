@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>8d86bddf-d627-4921-bd52-f55253fd3fad</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>.</DockerfileContext>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.23.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Notes.Application\Abstractions\" />
+    <Folder Include="Notes.Application\Contracts\" />
+    <Folder Include="Notes.Application\Dtos\" />
+    <Folder Include="Notes.Application\UseCases\" />
+    <Folder Include="Notes.Application\Errors\" />
+    <Folder Include="Notes.Domain\Common\" />
+    <Folder Include="Notes.Domain\Users\" />
+    <Folder Include="Notes.Domain\Notes\" />
+    <Folder Include="Notes.Infrastructure\Persistence\Configurations\" />
+    <Folder Include="Notes.Infrastructure\Persistence\Migrations\" />
+    <Folder Include="Notes.Infrastructure\Security\" />
+    <Folder Include="Notes.Infrastructure\Repositories\" />
+    <Folder Include="Notes.Infrastructure\Time\" />
+    <Folder Include="Notes.WebApi\Controllers\" />
+    <Folder Include="Notes.WebApi\Middleware\" />
+    <Folder Include="Notes.WebApi\Extensions\" />
+    <Folder Include="Notes.WebApi\Contracts\" />
+  </ItemGroup>
+
+</Project>
