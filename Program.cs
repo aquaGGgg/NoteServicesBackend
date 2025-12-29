@@ -1,6 +1,7 @@
 using System.Text.Json;
 using System.Text.Json.Serialization;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.OpenApi.Models;
 using Notes.Application.UseCases.Notes.CreateNote;
 using Notes.Application.UseCases.Notes.DeleteNote;
 using Notes.Application.UseCases.Notes.GetNote;
@@ -12,6 +13,26 @@ using Notes.WebApi.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// CORS
+const string CorsPolicyName = "DefaultCors";
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(CorsPolicyName, policy =>
+    {
+        // для разработки можно так (широко)
+        policy
+            .AllowAnyOrigin()
+            .AllowAnyHeader()
+            .AllowAnyMethod();
+
+        // Если хочешь "по уму" (prod), замени на:
+        // policy.WithOrigins("https://your-frontend.com")
+        //       .AllowAnyHeader()
+        //       .AllowAnyMethod();
+    });
+});
+
 builder.Services
     .AddControllers()
     .AddJsonOptions(o =>
@@ -19,35 +40,36 @@ builder.Services
         o.JsonSerializerOptions.PropertyNamingPolicy = JsonNamingPolicy.CamelCase;
         o.JsonSerializerOptions.DictionaryKeyPolicy = JsonNamingPolicy.CamelCase;
         o.JsonSerializerOptions.DefaultIgnoreCondition = JsonIgnoreCondition.WhenWritingNull;
+        o.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter());
     });
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
 {
-    c.SwaggerDoc("v1", new()
+    c.SwaggerDoc("v1", new OpenApiInfo
     {
         Title = "Notes API",
         Version = "v1"
     });
 
-    c.AddSecurityDefinition("Bearer", new Microsoft.OpenApi.Models.OpenApiSecurityScheme
+    c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
     {
         Name = "Authorization",
-        Type = Microsoft.OpenApi.Models.SecuritySchemeType.Http,
+        Type = SecuritySchemeType.Http,
         Scheme = "bearer",
         BearerFormat = "Opaque",
-        In = Microsoft.OpenApi.Models.ParameterLocation.Header,
-        Description = "Введите токен в формате: Bearer {token}"
+        In = ParameterLocation.Header,
+        Description = "Вставь токен. Swagger сам добавит 'Bearer '"
     });
 
-    c.AddSecurityRequirement(new Microsoft.OpenApi.Models.OpenApiSecurityRequirement
+    c.AddSecurityRequirement(new OpenApiSecurityRequirement
     {
         {
-            new Microsoft.OpenApi.Models.OpenApiSecurityScheme
+            new OpenApiSecurityScheme
             {
-                Reference = new Microsoft.OpenApi.Models.OpenApiReference
+                Reference = new OpenApiReference
                 {
-                    Type = Microsoft.OpenApi.Models.ReferenceType.SecurityScheme,
+                    Type = ReferenceType.SecurityScheme,
                     Id = "Bearer"
                 }
             },
@@ -56,7 +78,7 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
-
+// DI: auth + infra + current user
 builder.Services.AddWebApi(builder.Configuration);
 
 // handlers
@@ -68,25 +90,19 @@ builder.Services.AddScoped<DeleteNoteHandler>();
 
 var app = builder.Build();
 
-// apply migrations on startup
+// DB init (твой вариант)
 using (var scope = app.Services.CreateScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
 
-    // Если есть миграции — применяем.
-    // Если миграций нет (пусто) — создаём схему напрямую.
-    var migrations = await db.Database.GetAppliedMigrationsAsync();
-
-    if (migrations.Any())
-    {
+    var applied = await db.Database.GetAppliedMigrationsAsync();
+    if (applied.Any())
         await db.Database.MigrateAsync();
-    }
     else
-    {
         await db.Database.EnsureCreatedAsync();
-    }
 }
 
+// Middleware order
 app.UseMiddleware<ExceptionHandlingMiddleware>();
 
 if (app.Environment.IsDevelopment())
@@ -94,6 +110,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors(CorsPolicyName);
 
 app.UseAuthentication();
 app.UseAuthorization();

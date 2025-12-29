@@ -19,6 +19,7 @@ public static class DependencyInjection
             })
             .AddScheme<OpaqueBearerOptions, OpaqueBearerHandler>(AuthConstants.Scheme, _ => { });
 
+        // ВАЖНО: без FallbackPolicy — иначе даже AllowAnonymous может поехать
         services.AddAuthorization();
 
         services.AddScoped<ICurrentUser, CurrentUser>();

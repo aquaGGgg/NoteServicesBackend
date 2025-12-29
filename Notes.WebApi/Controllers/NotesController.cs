@@ -47,7 +47,6 @@ public sealed class NotesController : ControllerBase
     }
 
     public sealed record UpdateBody(
-        int ExpectedVersion,
         string? Title,
         string? Content,
         bool? IsArchived);
@@ -60,7 +59,7 @@ public sealed class NotesController : ControllerBase
         CancellationToken ct)
     {
         var updated = await handler.Handle(
-            new UpdateNoteCommand(id, body.ExpectedVersion, body.Title, body.Content, body.IsArchived),
+            new UpdateNoteCommand(id, body.Title, body.Content, body.IsArchived),
             ct);
 
         return Ok(updated);

@@ -28,9 +28,6 @@ public sealed class UpdateNoteHandler
         if (command.NoteId <= 0)
             throw new ValidationException("NoteId must be positive");
 
-        if (command.ExpectedVersion <= 0)
-            throw new ValidationException("ExpectedVersion must be positive");
-
         var title = command.Title is null ? null : Ensure.NotBlank(command.Title, nameof(command.Title));
         var content = command.Content is null ? null : Ensure.NotBlank(command.Content, nameof(command.Content));
 
@@ -41,10 +38,8 @@ public sealed class UpdateNoteHandler
         if (note is null)
             throw new NotFoundException("Note not found");
 
-
         var nowUnix = clock.UtcNow.ToUnixTimeSeconds();
         note.Update(title, content, command.IsArchived, nowUnix);
-
 
         await noteRepository.SaveChangesAsync(ct);
         return note.ToDto();

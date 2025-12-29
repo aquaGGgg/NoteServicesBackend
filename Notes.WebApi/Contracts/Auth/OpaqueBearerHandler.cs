@@ -27,6 +27,7 @@ public sealed class OpaqueBearerHandler : AuthenticationHandler<OpaqueBearerOpti
 
     protected override async Task<AuthenticateResult> HandleAuthenticateAsync()
     {
+        // Если заголовка нет — это нормально (анонимные эндпоинты должны работать)
         if (!Request.Headers.TryGetValue("Authorization", out var authHeaderValues))
             return AuthenticateResult.NoResult();
 
@@ -38,8 +39,11 @@ public sealed class OpaqueBearerHandler : AuthenticationHandler<OpaqueBearerOpti
             return AuthenticateResult.NoResult();
 
         var token = authHeader["Bearer ".Length..].Trim();
+
+        // ВАЖНО: плохой токен = NoResult, а не Fail
+        // Иначе даже AllowAnonymous может получать 401, если клиент всегда шлёт Authorization.
         if (string.IsNullOrWhiteSpace(token))
-            return AuthenticateResult.Fail("Bearer token is empty");
+            return AuthenticateResult.NoResult();
 
         var tokenHash = tokenService.HashToken(token);
         var nowUnix = DateTimeOffset.UtcNow.ToUnixTimeSeconds();
@@ -53,7 +57,7 @@ public sealed class OpaqueBearerHandler : AuthenticationHandler<OpaqueBearerOpti
                 Context.RequestAborted);
 
         if (tokenRow is null)
-            return AuthenticateResult.Fail("Invalid or expired token");
+            return AuthenticateResult.NoResult(); // <- ключевой фикс
 
         var claims = new List<Claim>
         {
