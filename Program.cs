@@ -9,8 +9,6 @@ using Notes.Application.UseCases.Notes.UpdateNote;
 using Notes.Infrastructure.Persistence;
 using Notes.WebApi.Extensions;
 using Notes.WebApi.Middleware;
-using Microsoft.EntityFrameworkCore;
-
 
 var builder = WebApplication.CreateBuilder(args);
 

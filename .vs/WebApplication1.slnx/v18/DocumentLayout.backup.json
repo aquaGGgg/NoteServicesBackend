@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\gg\\source\\repos\\WebApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DB0EC506-054D-44C7-50E7-440A96C593E2}|Notes.csproj|c:\\users\\gg\\source\\repos\\webapplication1\\notes.application\\usecases\\notes\\deletenote\\deletenotehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0EC506-054D-44C7-50E7-440A96C593E2}|Notes.csproj|solutionrelative:notes.application\\usecases\\notes\\deletenote\\deletenotehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0EC506-054D-44C7-50E7-440A96C593E2}|Notes.csproj|c:\\users\\gg\\source\\repos\\webapplication1\\notes.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0EC506-054D-44C7-50E7-440A96C593E2}|Notes.csproj|solutionrelative:notes.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0EC506-054D-44C7-50E7-440A96C593E2}|Notes.csproj|c:\\users\\gg\\source\\repos\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0EC506-054D-44C7-50E7-440A96C593E2}|Notes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DB0EC506-054D-44C7-50E7-440A96C593E2}|Notes.csproj|c:\\users\\gg\\source\\repos\\webapplication1\\notes.infrastructure\\repositories\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB0EC506-054D-44C7-50E7-440A96C593E2}|Notes.csproj|solutionrelative:notes.infrastructure\\repositories\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{DB0EC506-054D-44C7-50E7-440A96C593E2}|Notes.csproj|solutionrelative:notes.domain\\notes\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB0EC506-054D-44C7-50E7-440A96C593E2}|Notes.csproj|c:\\users\\gg\\source\\repos\\webapplication1\\notes.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB0EC506-054D-44C7-50E7-440A96C593E2}|Notes.csproj|solutionrelative:notes.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DB0EC506-054D-44C7-50E7-440A96C593E2}|Notes.csproj|c:\\users\\gg\\source\\repos\\webapplication1\\notes.webapi\\contracts\\auth\\opaquebearerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB0EC506-054D-44C7-50E7-440A96C593E2}|Notes.csproj|solutionrelative:notes.webapi\\contracts\\auth\\opaquebearerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -53,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DB0EC506-054D-44C7-50E7-440A96C593E2}|Notes.csproj|c:\\users\\gg\\source\\repos\\webapplication1\\notes.infrastructure\\security\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB0EC506-054D-44C7-50E7-440A96C593E2}|Notes.csproj|solutionrelative:notes.infrastructure\\security\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB0EC506-054D-44C7-50E7-440A96C593E2}|Notes.csproj|c:\\users\\gg\\source\\repos\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB0EC506-054D-44C7-50E7-440A96C593E2}|Notes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB0EC506-054D-44C7-50E7-440A96C593E2}|Notes.csproj|c:\\users\\gg\\source\\repos\\webapplication1\\notes.application\\abstractions\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -141,10 +145,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DB0EC506-054D-44C7-50E7-440A96C593E2}|Notes.csproj|c:\\users\\gg\\source\\repos\\webapplication1\\notes.infrastructure\\persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB0EC506-054D-44C7-50E7-440A96C593E2}|Notes.csproj|solutionrelative:notes.infrastructure\\persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB0EC506-054D-44C7-50E7-440A96C593E2}|Notes.csproj|c:\\users\\gg\\source\\repos\\webapplication1\\notes.application\\usecases\\notes\\deletenote\\deletenotehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB0EC506-054D-44C7-50E7-440A96C593E2}|Notes.csproj|solutionrelative:notes.application\\usecases\\notes\\deletenote\\deletenotehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB0EC506-054D-44C7-50E7-440A96C593E2}|Notes.csproj|c:\\users\\gg\\source\\repos\\webapplication1\\notes.application\\usecases\\notes\\deletenote\\deletenotecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -234,50 +234,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NoteConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Persistence\\Configurations\\NoteConfiguration.cs",
-              "RelativeDocumentMoniker": "Notes.Infrastructure\\Persistence\\Configurations\\NoteConfiguration.cs",
-              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Persistence\\Configurations\\NoteConfiguration.cs",
-              "RelativeToolTip": "Notes.Infrastructure\\Persistence\\Configurations\\NoteConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:54:05.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UpdateNoteCommand.cs",
-              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Application\\UseCases\\Notes\\UpdateNote\\UpdateNoteCommand.cs",
-              "RelativeDocumentMoniker": "Notes.Application\\UseCases\\Notes\\UpdateNote\\UpdateNoteCommand.cs",
-              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Application\\UseCases\\Notes\\UpdateNote\\UpdateNoteCommand.cs",
-              "RelativeToolTip": "Notes.Application\\UseCases\\Notes\\UpdateNote\\UpdateNoteCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:40:59.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-29T11:07:18.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "OpaqueBearerHandler.cs",
               "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Contracts\\Auth\\OpaqueBearerHandler.cs",
               "RelativeDocumentMoniker": "Notes.WebApi\\Contracts\\Auth\\OpaqueBearerHandler.cs",
@@ -285,12 +259,11 @@
               "RelativeToolTip": "Notes.WebApi\\Contracts\\Auth\\OpaqueBearerHandler.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAuwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:58:30.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T13:58:30.396Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "UserTokenConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Persistence\\Configurations\\UserTokenConfiguration.cs",
               "RelativeDocumentMoniker": "Notes.Infrastructure\\Persistence\\Configurations\\UserTokenConfiguration.cs",
@@ -298,12 +271,11 @@
               "RelativeToolTip": "Notes.Infrastructure\\Persistence\\Configurations\\UserTokenConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:54:42.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T13:54:42.258Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "NotesController.cs",
               "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Controllers\\NotesController.cs",
               "RelativeDocumentMoniker": "Notes.WebApi\\Controllers\\NotesController.cs",
@@ -311,25 +283,24 @@
               "RelativeToolTip": "Notes.WebApi\\Controllers\\NotesController.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAswE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:59:47.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T13:59:47.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "NoteRepository.cs",
               "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Repositories\\NoteRepository.cs",
               "RelativeDocumentMoniker": "Notes.Infrastructure\\Repositories\\NoteRepository.cs",
               "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Repositories\\NoteRepository.cs",
               "RelativeToolTip": "Notes.Infrastructure\\Repositories\\NoteRepository.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAkwD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-29T13:55:04.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Note.cs",
               "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Domain\\Notes\\Note.cs",
               "RelativeDocumentMoniker": "Notes.Domain\\Notes\\Note.cs",
@@ -337,12 +308,11 @@
               "RelativeToolTip": "Notes.Domain\\Notes\\Note.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T12:54:29.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T12:54:29.421Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "NoteDto.cs",
               "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Application\\Dtos\\NoteDto.cs",
               "RelativeDocumentMoniker": "Notes.Application\\Dtos\\NoteDto.cs",
@@ -350,12 +320,11 @@
               "RelativeToolTip": "Notes.Application\\Dtos\\NoteDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:35:49.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T13:35:49.523Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "DtoMapper.cs",
               "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Application\\UseCases\\Mapping\\DtoMapper.cs",
               "RelativeDocumentMoniker": "Notes.Application\\UseCases\\Mapping\\DtoMapper.cs",
@@ -363,12 +332,11 @@
               "RelativeToolTip": "Notes.Application\\UseCases\\Mapping\\DtoMapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:36:40.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T13:36:40.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "CreateNoteHandler.cs",
               "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Application\\UseCases\\Notes\\CreateNote\\CreateNoteHandler.cs",
               "RelativeDocumentMoniker": "Notes.Application\\UseCases\\Notes\\CreateNote\\CreateNoteHandler.cs",
@@ -376,12 +344,11 @@
               "RelativeToolTip": "Notes.Application\\UseCases\\Notes\\CreateNote\\CreateNoteHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwCcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:37:46.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T13:37:46.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UpdateNoteHandler.cs",
               "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Application\\UseCases\\Notes\\UpdateNote\\UpdateNoteHandler.cs",
               "RelativeDocumentMoniker": "Notes.Application\\UseCases\\Notes\\UpdateNote\\UpdateNoteHandler.cs",
@@ -389,12 +356,11 @@
               "RelativeToolTip": "Notes.Application\\UseCases\\Notes\\UpdateNote\\UpdateNoteHandler.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:41:07.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T13:41:07.885Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "INoteRepository.cs",
               "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Application\\Contracts\\INoteRepository.cs",
               "RelativeDocumentMoniker": "Notes.Application\\Contracts\\INoteRepository.cs",
@@ -402,298 +368,24 @@
               "RelativeToolTip": "Notes.Application\\Contracts\\INoteRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:35:28.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T13:35:28.982Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserToken.cs",
-              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Persistence\\Models\\UserToken.cs",
-              "RelativeDocumentMoniker": "Notes.Infrastructure\\Persistence\\Models\\UserToken.cs",
-              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Persistence\\Models\\UserToken.cs",
-              "RelativeToolTip": "Notes.Infrastructure\\Persistence\\Models\\UserToken.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:54:27.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Security\\TokenService.cs",
-              "RelativeDocumentMoniker": "Notes.Infrastructure\\Security\\TokenService.cs",
-              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Security\\TokenService.cs",
-              "RelativeToolTip": "Notes.Infrastructure\\Security\\TokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:55:54.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ITokenService.cs",
-              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Application\\Abstractions\\ITokenService.cs",
-              "RelativeDocumentMoniker": "Notes.Application\\Abstractions\\ITokenService.cs",
-              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Application\\Abstractions\\ITokenService.cs",
-              "RelativeToolTip": "Notes.Application\\Abstractions\\ITokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:35:09.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Notes.Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "Notes.Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:56:05.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Persistence\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Notes.Infrastructure\\Persistence\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Persistence\\AppDbContext.cs",
-              "RelativeToolTip": "Notes.Infrastructure\\Persistence\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:51:23.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Notes.WebApi\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Notes.WebApi\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAuwIkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAASwDIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-29T13:59:37.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Extensions\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Notes.WebApi\\Extensions\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Extensions\\DependencyInjection.cs",
-              "RelativeToolTip": "Notes.WebApi\\Extensions\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:59:27.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-29T14:13:39.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "VersionController.cs",
-              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Controllers\\VersionController.cs",
-              "RelativeDocumentMoniker": "Notes.WebApi\\Controllers\\VersionController.cs",
-              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Controllers\\VersionController.cs",
-              "RelativeToolTip": "Notes.WebApi\\Controllers\\VersionController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAswEoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T14:16:50.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "MeController.cs",
-              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Controllers\\MeController.cs",
-              "RelativeDocumentMoniker": "Notes.WebApi\\Controllers\\MeController.cs",
-              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Controllers\\MeController.cs",
-              "RelativeToolTip": "Notes.WebApi\\Controllers\\MeController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAUwEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T14:05:13.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Domain\\Users\\User.cs",
-              "RelativeDocumentMoniker": "Notes.Domain\\Users\\User.cs",
-              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Domain\\Users\\User.cs",
-              "RelativeToolTip": "Notes.Domain\\Users\\User.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T12:53:46.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Guard.cs",
-              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Domain\\Common\\Guard.cs",
-              "RelativeDocumentMoniker": "Notes.Domain\\Common\\Guard.cs",
-              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Domain\\Common\\Guard.cs",
-              "RelativeToolTip": "Notes.Domain\\Common\\Guard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T12:51:39.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "DomainException.cs",
-              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Domain\\Common\\DomainException.cs",
-              "RelativeDocumentMoniker": "Notes.Domain\\Common\\DomainException.cs",
-              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Domain\\Common\\DomainException.cs",
-              "RelativeToolTip": "Notes.Domain\\Common\\DomainException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T12:51:24.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Domain\\Common\\Entity.cs",
-              "RelativeDocumentMoniker": "Notes.Domain\\Common\\Entity.cs",
-              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Domain\\Common\\Entity.cs",
-              "RelativeToolTip": "Notes.Domain\\Common\\Entity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T12:51:11.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ExceptionHandlingMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "RelativeDocumentMoniker": "Notes.WebApi\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "RelativeToolTip": "Notes.WebApi\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAADwv04AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:59:15.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "CurrentUser.cs",
-              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Contracts\\Auth\\CurrentUser.cs",
-              "RelativeDocumentMoniker": "Notes.WebApi\\Contracts\\Auth\\CurrentUser.cs",
-              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Contracts\\Auth\\CurrentUser.cs",
-              "RelativeToolTip": "Notes.WebApi\\Contracts\\Auth\\CurrentUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:58:51.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "OpaqueBearerOptions.cs",
-              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Contracts\\Auth\\OpaqueBearerOptions.cs",
-              "RelativeDocumentMoniker": "Notes.WebApi\\Contracts\\Auth\\OpaqueBearerOptions.cs",
-              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Contracts\\Auth\\OpaqueBearerOptions.cs",
-              "RelativeToolTip": "Notes.WebApi\\Contracts\\Auth\\OpaqueBearerOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:58:12.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "AuthConstants.cs",
-              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Contracts\\Auth\\AuthConstants.cs",
-              "RelativeDocumentMoniker": "Notes.WebApi\\Contracts\\Auth\\AuthConstants.cs",
-              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Contracts\\Auth\\AuthConstants.cs",
-              "RelativeToolTip": "Notes.WebApi\\Contracts\\Auth\\AuthConstants.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:57:53.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "PasswordHasher.cs",
-              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Security\\PasswordHasher.cs",
-              "RelativeDocumentMoniker": "Notes.Infrastructure\\Security\\PasswordHasher.cs",
-              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Security\\PasswordHasher.cs",
-              "RelativeToolTip": "Notes.Infrastructure\\Security\\PasswordHasher.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAUwDoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:55:39.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "SystemClock.cs",
-              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Time\\SystemClock.cs",
-              "RelativeDocumentMoniker": "Notes.Infrastructure\\Time\\SystemClock.cs",
-              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Time\\SystemClock.cs",
-              "RelativeToolTip": "Notes.Infrastructure\\Time\\SystemClock.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:55:23.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Notes.Infrastructure\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Notes.Infrastructure\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:54:55.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "UserConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
-              "RelativeDocumentMoniker": "Notes.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
-              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
-              "RelativeToolTip": "Notes.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:53:54.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 0,
               "Title": "DeleteNoteHandler.cs",
               "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Application\\UseCases\\Notes\\DeleteNote\\DeleteNoteHandler.cs",
               "RelativeDocumentMoniker": "Notes.Application\\UseCases\\Notes\\DeleteNote\\DeleteNoteHandler.cs",
@@ -706,6 +398,282 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateNoteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Application\\UseCases\\Notes\\UpdateNote\\UpdateNoteCommand.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\UseCases\\Notes\\UpdateNote\\UpdateNoteCommand.cs",
+              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Application\\UseCases\\Notes\\UpdateNote\\UpdateNoteCommand.cs",
+              "RelativeToolTip": "Notes.Application\\UseCases\\Notes\\UpdateNote\\UpdateNoteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:40:59.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NoteConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Persistence\\Configurations\\NoteConfiguration.cs",
+              "RelativeDocumentMoniker": "Notes.Infrastructure\\Persistence\\Configurations\\NoteConfiguration.cs",
+              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Persistence\\Configurations\\NoteConfiguration.cs",
+              "RelativeToolTip": "Notes.Infrastructure\\Persistence\\Configurations\\NoteConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:54:05.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserToken.cs",
+              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Persistence\\Models\\UserToken.cs",
+              "RelativeDocumentMoniker": "Notes.Infrastructure\\Persistence\\Models\\UserToken.cs",
+              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Persistence\\Models\\UserToken.cs",
+              "RelativeToolTip": "Notes.Infrastructure\\Persistence\\Models\\UserToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:54:27.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Security\\TokenService.cs",
+              "RelativeDocumentMoniker": "Notes.Infrastructure\\Security\\TokenService.cs",
+              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Security\\TokenService.cs",
+              "RelativeToolTip": "Notes.Infrastructure\\Security\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:55:54.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Application\\Abstractions\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Notes.Application\\Abstractions\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Application\\Abstractions\\ITokenService.cs",
+              "RelativeToolTip": "Notes.Application\\Abstractions\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:35:09.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Notes.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Notes.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:56:05.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Notes.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "Notes.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:51:23.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Extensions\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Notes.WebApi\\Extensions\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Extensions\\DependencyInjection.cs",
+              "RelativeToolTip": "Notes.WebApi\\Extensions\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:59:27.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-29T14:13:39.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VersionController.cs",
+              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Controllers\\VersionController.cs",
+              "RelativeDocumentMoniker": "Notes.WebApi\\Controllers\\VersionController.cs",
+              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Controllers\\VersionController.cs",
+              "RelativeToolTip": "Notes.WebApi\\Controllers\\VersionController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T14:16:50.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MeController.cs",
+              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Controllers\\MeController.cs",
+              "RelativeDocumentMoniker": "Notes.WebApi\\Controllers\\MeController.cs",
+              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Controllers\\MeController.cs",
+              "RelativeToolTip": "Notes.WebApi\\Controllers\\MeController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T14:05:13.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Domain\\Users\\User.cs",
+              "RelativeDocumentMoniker": "Notes.Domain\\Users\\User.cs",
+              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Domain\\Users\\User.cs",
+              "RelativeToolTip": "Notes.Domain\\Users\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T12:53:46.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Guard.cs",
+              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Domain\\Common\\Guard.cs",
+              "RelativeDocumentMoniker": "Notes.Domain\\Common\\Guard.cs",
+              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Domain\\Common\\Guard.cs",
+              "RelativeToolTip": "Notes.Domain\\Common\\Guard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T12:51:39.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Domain\\Common\\DomainException.cs",
+              "RelativeDocumentMoniker": "Notes.Domain\\Common\\DomainException.cs",
+              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Domain\\Common\\DomainException.cs",
+              "RelativeToolTip": "Notes.Domain\\Common\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T12:51:24.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Domain\\Common\\Entity.cs",
+              "RelativeDocumentMoniker": "Notes.Domain\\Common\\Entity.cs",
+              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Domain\\Common\\Entity.cs",
+              "RelativeToolTip": "Notes.Domain\\Common\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T12:51:11.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Notes.WebApi\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Notes.WebApi\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwv04AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:59:15.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Contracts\\Auth\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "Notes.WebApi\\Contracts\\Auth\\CurrentUser.cs",
+              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Contracts\\Auth\\CurrentUser.cs",
+              "RelativeToolTip": "Notes.WebApi\\Contracts\\Auth\\CurrentUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:58:51.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OpaqueBearerOptions.cs",
+              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Contracts\\Auth\\OpaqueBearerOptions.cs",
+              "RelativeDocumentMoniker": "Notes.WebApi\\Contracts\\Auth\\OpaqueBearerOptions.cs",
+              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Contracts\\Auth\\OpaqueBearerOptions.cs",
+              "RelativeToolTip": "Notes.WebApi\\Contracts\\Auth\\OpaqueBearerOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:58:12.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthConstants.cs",
+              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Contracts\\Auth\\AuthConstants.cs",
+              "RelativeDocumentMoniker": "Notes.WebApi\\Contracts\\Auth\\AuthConstants.cs",
+              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.WebApi\\Contracts\\Auth\\AuthConstants.cs",
+              "RelativeToolTip": "Notes.WebApi\\Contracts\\Auth\\AuthConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:57:53.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Security\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Notes.Infrastructure\\Security\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Security\\PasswordHasher.cs",
+              "RelativeToolTip": "Notes.Infrastructure\\Security\\PasswordHasher.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:55:39.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SystemClock.cs",
+              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Time\\SystemClock.cs",
+              "RelativeDocumentMoniker": "Notes.Infrastructure\\Time\\SystemClock.cs",
+              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Time\\SystemClock.cs",
+              "RelativeToolTip": "Notes.Infrastructure\\Time\\SystemClock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:55:23.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Notes.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Notes.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:54:55.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Notes.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "Notes.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:53:54.319Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 36,
               "Title": "DeleteNoteCommand.cs",
               "DocumentMoniker": "C:\\Users\\gg\\source\\repos\\WebApplication1\\Notes.Application\\UseCases\\Notes\\DeleteNote\\DeleteNoteCommand.cs",
@@ -714,8 +682,7 @@
               "RelativeToolTip": "Notes.Application\\UseCases\\Notes\\DeleteNote\\DeleteNoteCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:41:43.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T13:41:43.12Z"
             },
             {
               "$type": "Document",
@@ -727,8 +694,7 @@
               "RelativeToolTip": "Notes.Application\\UseCases\\Notes\\GetNote\\GetNoteHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:40:00.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T13:40:00.186Z"
             },
             {
               "$type": "Document",
@@ -740,8 +706,7 @@
               "RelativeToolTip": "Notes.Application\\UseCases\\Notes\\GetNote\\GetNoteQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:39:50.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T13:39:50.579Z"
             },
             {
               "$type": "Document",
@@ -753,8 +718,7 @@
               "RelativeToolTip": "Notes.Application\\UseCases\\Notes\\ListNotes\\ListNotesHandler.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:39:12.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T13:39:12.411Z"
             },
             {
               "$type": "Document",
@@ -766,8 +730,7 @@
               "RelativeToolTip": "Notes.Application\\UseCases\\Notes\\ListNotes\\ListNotesResult.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:38:58.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T13:38:58.787Z"
             },
             {
               "$type": "Document",
@@ -779,8 +742,7 @@
               "RelativeToolTip": "Notes.Application\\UseCases\\Notes\\ListNotes\\ListNotesQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:38:46.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T13:38:46.919Z"
             },
             {
               "$type": "Document",
@@ -792,8 +754,7 @@
               "RelativeToolTip": "Notes.Application\\UseCases\\Notes\\CreateNote\\CreateNoteCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:37:38.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T13:37:38.782Z"
             },
             {
               "$type": "Document",
@@ -805,8 +766,7 @@
               "RelativeToolTip": "Notes.Application\\UseCases\\Validation\\Ensure.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:36:56.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T13:36:56.469Z"
             },
             {
               "$type": "Document",
@@ -818,8 +778,7 @@
               "RelativeToolTip": "Notes.Application\\Dtos\\AuthTokensDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:36:08.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T13:36:08.62Z"
             },
             {
               "$type": "Document",
@@ -831,8 +790,7 @@
               "RelativeToolTip": "Notes.Application\\Dtos\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:35:37.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T13:35:37.713Z"
             },
             {
               "$type": "Document",
@@ -844,8 +802,7 @@
               "RelativeToolTip": "Notes.Application\\Contracts\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:35:19.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T13:35:19.197Z"
             },
             {
               "$type": "Document",
@@ -857,8 +814,7 @@
               "RelativeToolTip": "Notes.Application\\Abstractions\\IPasswordHasher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:34:56.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T13:34:56.24Z"
             },
             {
               "$type": "Document",
@@ -870,8 +826,7 @@
               "RelativeToolTip": "Notes.Application\\Abstractions\\ICurrentUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:31:08.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T13:31:08.231Z"
             },
             {
               "$type": "Document",
@@ -883,8 +838,7 @@
               "RelativeToolTip": "Notes.Application\\Abstractions\\IClock.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T12:59:06.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T12:59:06.93Z"
             },
             {
               "$type": "Document",
@@ -896,8 +850,7 @@
               "RelativeToolTip": "Notes.Application\\Errors\\ConflictException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T12:58:14.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T12:58:14.245Z"
             },
             {
               "$type": "Document",
@@ -909,8 +862,7 @@
               "RelativeToolTip": "Notes.Application\\Errors\\NotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T12:57:53.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T12:57:53.573Z"
             },
             {
               "$type": "Document",
@@ -922,8 +874,7 @@
               "RelativeToolTip": "Notes.Application\\Errors\\UnauthorizedException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T12:57:04.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T12:57:04.838Z"
             },
             {
               "$type": "Document",
@@ -935,8 +886,7 @@
               "RelativeToolTip": "Notes.Application\\Errors\\ValidationException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T12:56:34.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T12:56:34.268Z"
             },
             {
               "$type": "Document",
@@ -948,8 +898,7 @@
               "RelativeToolTip": "Notes.Application\\Errors\\AppException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T12:56:11.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T12:56:11.992Z"
             },
             {
               "$type": "Document",
@@ -961,8 +910,7 @@
               "RelativeToolTip": ".gitignore",
               "ViewState": "AgIAAAEAAAAAAAAAAAAowIUAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2025-12-29T12:36:28.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T12:36:28.536Z"
             }
           ]
         }
